@@ -1,0 +1,3 @@
+hi all
+this mani
+i will practice git
